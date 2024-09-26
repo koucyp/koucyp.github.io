@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://koucyp.github.io/sitemap/sitemap.txt
